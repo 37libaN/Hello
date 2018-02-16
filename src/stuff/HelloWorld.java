@@ -9,6 +9,7 @@ public class HelloWorld {
 		System.out.println("I am 27,000 years old");
 		System.out.println("Lava Java");
 		System.out.println("I like zebras.");
+		System.out.println("Spagetti");
 	}
 
 }
